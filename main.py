@@ -48,3 +48,7 @@ while(status):
 
 
 #govnocode ended
+
+
+abs = 10
+
