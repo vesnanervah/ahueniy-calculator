@@ -49,3 +49,8 @@ while(status):
 
 
 #A gde gui?????
+
+
+
+
+ccc=20
